@@ -1,0 +1,6 @@
+RPG_SAVE_2
+P Kratos 30 30 8 2
+I 2
+O 1 Pocion_menor 2 20
+O 2 Somnifero 3 2
+H 0
